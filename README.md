@@ -1,2 +1,2 @@
 # FURNIFLEX
-Codefest Competition input
+Codefest Competition creator and input
